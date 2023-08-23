@@ -1,6 +1,3 @@
-Certainly! Here's an example README for a project called "Solid Clean Architecture Study":
-
-```markdown
 # Solid Clean Architecture Study
 
 Welcome to the Solid Clean Architecture Study project! This repository contains a sample implementation of a software project following the principles of Clean Architecture and SOLID design principles. The goal of this project is to provide a clear and structured example of how to architect a software application for maintainability, testability, and scalability.
